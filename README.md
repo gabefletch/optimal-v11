@@ -13,4 +13,4 @@ Yes, but you probably won't notice it. Optimal and other projects by Gabe Fletch
 Gabe Fletcher is part of Webflow's Student Program and receives a license for Webflow for free. 
 
 ### What happened to Bootstrap Studio Development?
-Despite Gabe Fletcher being a registered member of GitHub's Student Developer Program, Bootstrap Studio refused to recognize this. Webflow will also deliver a faster turn around time for updates and v10.0.4 to v11 asset migration than possible with Bootstrap by maintaining the same general codebase. 
+Despite Gabe Fletcher being a registered member of GitHub's Student Developer Program, Bootstrap Studio refused to recognize this. Since Optimal has no direct funding, purchasing Bootstrap Studio or any other development application without a student license is not possible. Webflow will also deliver a faster turn around time for updates and v10.0.4 to v11 asset migration than possible with Bootstrap by maintaining the same general codebase. 
