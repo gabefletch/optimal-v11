@@ -1,5 +1,5 @@
 # optimal-v11
-This is the open-source viewing repository for [Optimal](https://dub.sh/optimal) v11 HTM and JS source code, created with [Webflow](https://webflow.com)
+This is the open-source viewing repository for [Optimal](https://dub.sh/optimal) v11 HTM and JS source code, created with [Webflow](https://webflow.com).
 ### I don't see any code...
 And you won't for a while. Optimal v11 constitutes a full re-write of assets from v10.0.4 to Webflow.
 
