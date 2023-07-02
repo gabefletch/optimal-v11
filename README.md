@@ -1,7 +1,7 @@
 # optimal-v11
 This is the open-source viewing repository for [Optimal](https://dub.sh/optimal) v11 HTM and JS source code, created with [Webflow](https://webflow.com).
-### I don't see any code...
-And you won't for a while. Optimal v11 constitutes a full re-write of assets from v10.0.4 to Webflow.
+### Codename Chesapeake
+Chesapeake refers to the current alpha build of Optimal v11 in Webflow. [View Chesapeake code here](https://github.com/gabefletch/optimal-v11/tree/main/Chesapeake%20Alpha).
 
 ### Why Webflow?
 Bootstrap offers the widest range of development freedom ever for both Optimal and its lead developer Gabe Fletcher. 
