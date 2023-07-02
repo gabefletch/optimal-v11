@@ -1,6 +1,6 @@
 # optimal-v11
 This is the open-source viewing repository for [Optimal](https://dub.sh/optimal) v11 HTML source code, created with [Webflow](https://webflow.com).
-### Codename Chesapeake
+## Codename Chesapeake
 Chesapeake refers to the current alpha build of Optimal v11 in Webflow. [View Chesapeake code here](https://github.com/gabefletch/optimal-v11/tree/main/Chesapeake%20Alpha).
 
 🟥 Please note that Chesapeake HTML files will have "URL-REDACTED" in place of alpha build URLs.
