@@ -1,5 +1,5 @@
 # optimal-v11
-<img src="https://i.imgur.com/RKY01lp" width=300>
+<a href="https://imgbox.com/tAphzdMa" target="_blank"><img src="https://images2.imgbox.com/6b/06/tAphzdMa_o.png" width="250"/></a>
 
 [Optimal](https://dub.sh/optimal) is an open source online repository for modified Android and iOS apps/games, developed, maintained, and curated by Gabe Fletcher.
 
