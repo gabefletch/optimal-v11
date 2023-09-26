@@ -18,7 +18,7 @@ Optimal curates third-party modified Android and iOS apps and games with paywall
 ## 🍿 Movies and TV Streaming
 Optimal encourages the use of streaming to circumvent buying media on digital marketplaces. Unfortunately, the vast majority of streaming sites are also malware-ridden and full of phishing tactics. This is why Optimal endorses [movie-web](https://github.com/movie-web/movie-web), an open-source, ad-free, no-nonsense media scraper that has been thoroughly tested by Optimal Team.
 
-## 🛜 Optimal Team
+## ⚡ Optimal Team
 Optimal is made by:<br>
 Lead Developer, [Gabe Fletcher](https://dub.sh/gabe), [@gabefletch](github.com/gabefletch) on Github<br>
 iOS Quality Assurance, [Ella Hawkins](https://dub.sh/ellahawkins)<br>
