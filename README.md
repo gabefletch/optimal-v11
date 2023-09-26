@@ -43,3 +43,6 @@ For Android Apps:
 For Movies & TV Streaming:
 - [movie-web](https://github.com/movie-web/movie-web) by movie-web Team
 - [movie-cli](https://github.com/JipFr/movie-cli) by JipFr
+
+## ⚖️ Legal
+Legal disclaimers, terms of use, privacy policy, and other legal clauses for Optimal can be found [here](https://dub.sh/optimal-legal).
