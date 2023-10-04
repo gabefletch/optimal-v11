@@ -6,9 +6,9 @@
 [Optimal](https://dub.sh/optimal) is an open source online repository for modified Android and iOS apps/games, as well as movie and TV streaming, developed, maintained, and curated by Gabe Fletcher.<br>
 
 ## 🔗 Quick Links
-Go to Optimal >> [dub.sh/optimal](https://dub.sh/optimal)<br>
-Go to Optimal Docs >> [dub.sh/optimaldocs](https://dub.sh/optimaldocs)<br>
-Go to Optimal Status >> [dub.sh/optimal-status](https://dub.sh/optimal-status)<br>
+Go to Optimal ➜ [dub.sh/optimal](https://dub.sh/optimal)<br>
+Go to Optimal Docs ➜ [dub.sh/optimaldocs](https://dub.sh/optimaldocs)<br>
+Go to Optimal Status ➜ [dub.sh/optimal-status](https://dub.sh/optimal-status)<br>
 Follow Optimal on [Instagram](https://instagram.com/theoptimalproject) or [Threads](https://threads.net/theoptimalproject)<br>
 Follow our Lead Developer on [Instagram](https://instagram.com/gabefletch), [Threads](https://threads.net/gabefletch), or [Github](https://github.com/gabefletch)<br>
 
