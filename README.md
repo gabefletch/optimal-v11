@@ -3,7 +3,7 @@
 
 ### Optimal v11 is still in active development.
 
-[Optimal](https://dub.sh/optimal) is an open source online repository for modified Android and iOS apps/games, as well as movie and TV streaming, developed, maintained, and curated by Gabe Fletcher.<br>
+[Optimal](https://dub.sh/optimal) is an open source online repository for modified Android and iOS apps/games, as well as movie and TV streaming, developed, maintained, and curated by [Gabe Fletcher](https://dub.sh/gabe).<br>
 
 ## 🔗 Quick Links
 Go to Optimal ➜ [dub.sh/optimal](https://dub.sh/optimal)<br>
@@ -17,12 +17,6 @@ Optimal curates third-party modified Android and iOS apps and games with paywall
 
 ## 🍿 Movies and TV Streaming
 Optimal encourages the use of streaming to circumvent buying media on digital marketplaces. Unfortunately, the vast majority of streaming sites are also malware-ridden and full of phishing tactics. This is why Optimal endorses [movie-web](https://github.com/movie-web/movie-web), an open-source, ad-free, no-nonsense media scraper that has been thoroughly tested by Optimal Team.
-
-## ⚡ Optimal Team
-Optimal is made by:<br>
-Lead Developer, [Gabe Fletcher](https://dub.sh/gabe), [@gabefletch](github.com/gabefletch) on Github<br>
-iOS Quality Assurance, [Ella Hawkins](https://dub.sh/ellahawkins)<br>
-Android Quality Assurance, [John Fdoul](https://dub.sh/johnfdoul)<br>
 
 ## 📒 Documentation
 Documentation for Optimal is available at Optimal Docs, via [dub.sh/optimaldocs](https://dub.sh/optimaldocs)
