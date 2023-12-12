@@ -1,5 +1,6 @@
 # optimal-v11
-<img src="https://github.com/gabefletch/optimal-v11/assets/38300939/7512475f-586c-46d6-bdf4-89fa5fb1ef09" width=300><br>
+<img src="https://github.com/gabefletch/optimal-v11/assets/38300939/b93421c5-b4f4-4110-87a3-630b4a1d141a" width=400>
+
 
 ### Optimal v11 is still in active development.
 
@@ -8,6 +9,7 @@
 ## 🔗 Quick Links
 Go to Optimal ➜ [dub.sh/optimal](https://dub.sh/optimal)<br>
 Go to Optimal Docs ➜ [dub.sh/optimaldocs](https://dub.sh/optimaldocs)<br>
+(both of these top two links will direct to a "we'll be back" page during development)<br>
 Go to Optimal Status ➜ [dub.sh/optimal-status](https://dub.sh/optimal-status)<br>
 Follow Optimal on [Instagram](https://instagram.com/theoptimalproject) or [Threads](https://threads.net/theoptimalproject)<br>
 Follow our Lead Developer on [Instagram](https://instagram.com/gabefletch), [Threads](https://threads.net/gabefletch), or [Github](https://github.com/gabefletch)<br>
