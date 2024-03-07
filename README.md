@@ -23,7 +23,7 @@ Optimal encourages the use of streaming to circumvent buying media on digital ma
 ## 📒 Documentation
 Documentation for Optimal is available at Optimal Docs, via [dub.sh/optimaldocs](https://dub.sh/optimaldocs)
 
-## ✅ Dependencies
+## ✅ Dependencies (outdated)
 For iOS Apps and Sideloading:<br>
 - [Altstore](https://altstore.io) by Riley Testut
 - [AppDB](https://appdb.to) for iOS Spotify sourcing (multiple users)
