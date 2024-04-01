@@ -17,7 +17,7 @@ Optimal encourages the use of streaming to circumvent buying media on digital ma
 
 ## 📒 Documentation
 Documentation for Optimal is available at Optimal Docs, via [dub.sh/optimaldocs](https://dub.sh/optimaldocs)<br>
-Documentation at this link is extremeley outdated, this site and all documentation is being rebuilt.
+Documentation at this link is extremely outdated, this site and all documentation is being rebuilt.
 
 ## ✅ Dependencies
 There used to be quite a few dependencies listed here that are now outdated during development.
