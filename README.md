@@ -19,6 +19,5 @@ Documentation at this link is extremely outdated, this site and all documentatio
 ## ✅ Dependencies
 There used to be quite a few dependencies listed here that are now outdated during development.
 
-## ⚖️ Legal
-Legal disclaimers, terms of use, privacy policy, and other legal clauses for Optimal can be found [here](https://dub.sh/optimal-legal).<br>
-All legal terms will likely receive a rewrite upon release of Optimal v11.
+## ⚖️ Legal Terms
+There used to be a helpful link to Optimal's legal terms here, but these terms need a rewrite for v11.
